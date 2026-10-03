@@ -1,0 +1,104 @@
+авг. 24, 2026 2:18:58 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @42b8a237'
+[JavaFX Application Thread] INFO novella.service.LevelBuilder - собираем массив уровней
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\1 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\2 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\3 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\4 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\5 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\6 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\7 
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+[JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+[JavaFX Application Thread] INFO novella.service.LevelBuilder - массив уровней собран, уровней: 9 
+авг. 24, 2026 2:19:13 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 26 by JavaFX runtime of version 21.0.5
+[JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+[JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+Exception in thread "JavaFX Application Thread" java.lang.StringIndexOutOfBoundsException: Range [0, 54) out of bounds for length 53
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4855)
+	at java.base/java.lang.String.substring(String.java:2823)
+	at novella.controller.NovellaController.lambda$printAnimatedText$1(NovellaController.java:113)
+	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:239)
+	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:180)
+	at javafx.animation.Timeline.doPlayTo(Timeline.java:172)
+	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)
+	at com.sun.scenario.animation.shared.SingleLoopClipEnvelope.timePulse(SingleLoopClipEnvelope.java:103)
+	at javafx.animation.Animation.doTimePulse(Animation.java:1189)
+	at javafx.animation.Animation$1.lambda$timePulse$0(Animation.java:207)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at javafx.animation.Animation$1.timePulse(Animation.java:206)
+	at com.sun.scenario.animation.AbstractPrimaryTimer.timePulseImpl(AbstractPrimaryTimer.java:343)
+	at com.sun.scenario.animation.AbstractPrimaryTimer$MainLoop.run(AbstractPrimaryTimer.java:266)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:588)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:572)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:565)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$11(QuantumToolkit.java:352)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня8 
+Exception in thread "JavaFX Application Thread" java.lang.StringIndexOutOfBoundsException: Range [0, 122) out of bounds for length 121
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4855)
+	at java.base/java.lang.String.substring(String.java:2823)
+	at novella.controller.NovellaController.lambda$printAnimatedText$1(NovellaController.java:113)
+	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:239)
+	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:180)
+	at javafx.animation.Timeline.doPlayTo(Timeline.java:172)
+	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)
+	at com.sun.scenario.animation.shared.SingleLoopClipEnvelope.timePulse(SingleLoopClipEnvelope.java:103)
+	at javafx.animation.Animation.doTimePulse(Animation.java:1189)
+	at javafx.animation.Animation$1.lambda$timePulse$0(Animation.java:207)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at javafx.animation.Animation$1.timePulse(Animation.java:206)
+	at com.sun.scenario.animation.AbstractPrimaryTimer.timePulseImpl(AbstractPrimaryTimer.java:343)
+	at com.sun.scenario.animation.AbstractPrimaryTimer$MainLoop.run(AbstractPrimaryTimer.java:266)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:588)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:572)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:565)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$11(QuantumToolkit.java:352)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)

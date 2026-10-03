@@ -1,0 +1,8 @@
+novella\exceptions\WorkException.class
+novella\Launcher.class
+novella\service\SoundPlayer.class
+novella\service\GameDataLoader.class
+novella\model\Level.class
+novella\MainApp.class
+novella\service\LevelBuilder.class
+novella\controller\NovellaController.class

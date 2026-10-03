@@ -1,0 +1,139 @@
+2026-10-03 08:50:54 [JavaFX Application Thread] INFO novella.service.LevelBuilder - собираем массив уровней
+2026-10-03 08:50:55 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\1 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\2 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\3 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\4 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\5 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\6 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\7 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\8 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\9 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\10 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\11 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\12 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\13 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\14 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\15 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\16 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\17 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\18 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\19 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\20 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем уровеньC:\Users\User\IdeaProjects\novella2.0\levels\21 
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем текст к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем картинку к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем звук к уровню
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.GameDataLoader - загружаем музыку
+2026-10-03 08:50:56 [JavaFX Application Thread] INFO novella.service.LevelBuilder - массив уровней собран, уровней: 23 
+2026-10-03 08:51:00 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:03 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+2026-10-03 08:51:03 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+2026-10-03 08:51:13 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:13 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:13 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня22 
+2026-10-03 08:51:24 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:24 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:24 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+2026-10-03 08:51:24 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+2026-10-03 08:51:27 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:27 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:29 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня1 
+2026-10-03 08:51:29 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня1 
+2026-10-03 08:51:32 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:32 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:32 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня21 
+2026-10-03 08:51:40 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:40 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:41 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+2026-10-03 08:51:41 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня0 
+2026-10-03 08:51:48 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:48 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:49 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня1 
+2026-10-03 08:51:49 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня1 
+2026-10-03 08:51:50 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:50 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:50 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня2 
+2026-10-03 08:51:50 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня2 
+2026-10-03 08:51:53 [JavaFX Application Thread] INFO novella.controller.NovellaController - кнопка нажата
+2026-10-03 08:51:53 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск анимации теста
+2026-10-03 08:51:53 [JavaFX Application Thread] INFO novella.controller.NovellaController - запуск уровня4 
