@@ -1,6 +1,7 @@
 package novella.service;
 
 import javafx.application.Platform;
+import lombok.extern.slf4j.Slf4j;
 import novella.exceptions.WorkException;
 import novella.model.Level;
 import org.junit.jupiter.api.BeforeAll;
@@ -17,6 +18,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@Slf4j
 class LevelBuilderTest {
 
     LevelBuilder levelBuilder;
@@ -29,6 +31,7 @@ class LevelBuilderTest {
             Platform.startup(() -> {
             });
         } catch (IllegalStateException e) {
+            log.error("Ошибка запуска FX платформы для тестов ", e);
         }
     }
 

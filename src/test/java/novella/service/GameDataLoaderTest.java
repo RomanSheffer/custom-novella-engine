@@ -1,6 +1,5 @@
 package novella.service;
 
-import javafx.scene.image.Image;
 import novella.exceptions.WorkException;
 import novella.model.Level;
 import org.junit.jupiter.api.BeforeEach;
@@ -45,10 +44,10 @@ class GameDataLoaderTest {
 
     @Test
     @DisplayName("загрузка некорректного уровня - ошибка ")
-    void ifLevelIsUncorrectJson_thenLevelIsNull(){
+    void ifLevelIsIncorrectJson_thenLevelIsNull(){
 
         //assert
-        WorkException exception = assertThrows( WorkException.class, () ->{
+        assertThrows( WorkException.class, () ->{
             gameDataLoader.loadLevelFromJson(uncorrectLevel);
         } );
     }

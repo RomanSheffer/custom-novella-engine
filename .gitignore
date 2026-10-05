@@ -35,5 +35,9 @@ build/
 ### VS Code ###
 .vscode/
 
+custom_engine_output
+custom_engine_output/
+custom_engine_output/*
+
 ### Mac OS ###
 .DS_Store

@@ -5,6 +5,7 @@ import javafx.scene.image.Image;
 import lombok.extern.slf4j.Slf4j;
 import novella.exceptions.WorkException;
 import novella.model.Level;
+
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -37,7 +38,7 @@ public class GameDataLoader {
 
         } catch (Exception e) {
             log.error("ошибка чтения json уровня", e);
-            throw  new WorkException("ошибка в структуре json для уровня", e);
+            throw new WorkException("ошибка в структуре json для уровня", e);
         }
     }
 
@@ -50,9 +51,7 @@ public class GameDataLoader {
             Path pathToTxt = Paths.get(commonPathToFile + storyFileFormat);
             List<String> linesOfText = Files.readAllLines(pathToTxt);
 
-            String textOfLevel = String.join(System.lineSeparator(), linesOfText);
-
-            return textOfLevel;
+            return String.join(System.lineSeparator(), linesOfText);
 
         } catch (Exception e) {
             log.error("не удалось прочитать текст уровня", e);
@@ -67,37 +66,34 @@ public class GameDataLoader {
 
         try {
             return new Image("file:/" + commonPathToFile + imageFileFormat);
-        }
-        catch (Exception e) {
+        } catch (Exception e) {
             log.error("не удалось загрузить картинку", e);
             return null;
         }
-
     }
 
-    private String loadSoundOfLevel(){
+    private String loadSoundOfLevel() {
 
         log.info("загружаем звук к уровню");
         String soundFileFormat = ".wav";
 
-        if (!Files.exists(Paths.get(commonPathToFile+soundFileFormat))){
+        if (!Files.exists(Paths.get(commonPathToFile + soundFileFormat))) {
             return null;
-        }else {
+        } else {
             return commonPathToFile + soundFileFormat;
         }
-
-        }
-
-        private String loadMusicOfLevel(){
-
-            log.info("загружаем музыку");
-            String musicFileFormat = "theme.wav";
-
-            if(!Files.exists(Paths.get(commonPathToFile+musicFileFormat))){
-                return null;
-            }
-            return commonPathToFile+musicFileFormat;
-        }
-
     }
+
+    private String loadMusicOfLevel() {
+
+        log.info("загружаем музыку");
+        String musicFileFormat = "theme.wav";
+
+        if (!Files.exists(Paths.get(commonPathToFile + musicFileFormat))) {
+            return null;
+        }
+        return commonPathToFile + musicFileFormat;
+    }
+
+}
 
